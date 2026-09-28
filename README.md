@@ -275,6 +275,3 @@ Backend Developer | Node.js · NestJS · TypeScript · PostgreSQL
 - LinkedIn: [linkedin.com/in/sanket-dahiya-dev](https://linkedin.com/in/sanket-dahiya-dev)
 - GitHub: [github.com/Jai-Dahiyaa](https://github.com/Jai-Dahiyaa)
 - Email: sanketdahiya.dev@gmail.com
-- LinkedIn: https://www.linkedin.com/
-- GitHub: https://github.com/
-- Email: your-email@example.com
